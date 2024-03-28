@@ -1,3 +1,4 @@
+// Added new line
 const workspace = document.querySelector('#workspace')
 const contextmenu = document.querySelector('#contextmenu')
 const newFile = document.querySelector('#contextmenu .new-file')
